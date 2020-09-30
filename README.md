@@ -1,5 +1,5 @@
 # Mega-V2.0-Roblox-Injector
-By downloading this you are adgreeing to:
+By downloading this you agree to:
 
 
 Do:
