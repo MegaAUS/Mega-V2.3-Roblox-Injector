@@ -1,2 +1,12 @@
 # Mega-V2.0-Roblox-Injector
-Have Fun
+By downloading this you are adgreeing to:
+
+
+Do:
+Use The Injector 
+
+
+Dont:
+give download links anywhere else for this menu.
+Sell For Real Or Virtual Currency.
+say false information about this menu such as "This Is A Virus!!!! Dont Download!!!!!!!"
