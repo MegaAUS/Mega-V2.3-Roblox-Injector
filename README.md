@@ -9,4 +9,4 @@ Use The Injector
 Dont:
 give download links anywhere else for this menu.
 Sell For Real Or Virtual Currency.
-say false information about this menu such as "This Is A Virus!!!! Dont Download!!!!!!!"
+say false information about this menu.
